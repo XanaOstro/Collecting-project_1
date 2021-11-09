@@ -1,4 +1,4 @@
-# Data preparation. Preliminary study of the dataset. Formulating and testing hypotheses.
+# Collecting project_1. Data preparation. Preliminary study of the dataset. Formulating and testing hypotheses.
 **Computer games: identifying patterns determining the success of the game**.
 
 
